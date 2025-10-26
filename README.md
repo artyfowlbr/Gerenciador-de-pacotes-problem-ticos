@@ -7,7 +7,8 @@ _(Projeto em desenvolvimento)_
 ## Funcionalidades
 *em desenvolvimento*  
 - Gerenciamento de rotas de entrega
-  - Cadastro e exclusão das rotas
+  - Cadastro e exclusão das rotas pelo terminal
+  - Cadastro de rotas por uma interface de usuário (GUI)
 
 ## Tecnologias
 Até o presente momento está sendo utilizado Python e SQLite.
